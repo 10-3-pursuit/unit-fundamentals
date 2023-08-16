@@ -81,7 +81,7 @@ Now create the inner loop
 ```js
 for (let i = 0; i < 5; i++) {
   console.log("The value of i is:", i);
-  for (let j = 0; i < 3; j++) {
+  for (let j = 0; j < 3; j++) {
     console.log("The value of j is:", j);
   }
 }
