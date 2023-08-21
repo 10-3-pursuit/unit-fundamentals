@@ -72,7 +72,7 @@ You can likely already think of some of the tools you might need to solve this p
 
 ### Accumulator pattern steps
 
-The accumulator pattern involves four steps:
+The accumulator pattern involves three steps:
 
 1. Determine your output data type and default value.
 1. Define your loop.
