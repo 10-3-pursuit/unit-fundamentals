@@ -18,12 +18,6 @@ By the end of this lesson you should be able to:
 
 - What file extension is used to denote a file that uses Markdown?
 
-- Create a new Markdown file on your computer and open it with VSCode.
-
-  Then, open up the command pallette with `Cmd` + `Shift` + `P`. Type "markdown" until you see the option "Open Preview to the Side". Select that option and then type some text in your `.md` file.
-
-  What happens as you type?
-
 - What is a heading? Include at least one in your Markdown file.
 
 - How do you create different paragraphs with Markdown? Include two different paragraphs in your Markdown file.
