@@ -17,13 +17,17 @@ For example, all of the pre-readings and lesson-notes you've been reading for th
 
 # Markdown
 
-Read the following webpage on GitHub. You should read the following sections:
+Read the following webpage on GitHub. 
 
-- Intro
-- What is Markdown?
-- Examples
-- Basic Syntax
+[GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-You do not need to read the section called "GFM" or "GitHub Flavored Markdown".
+You should read the following section:
 
-- [GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+**Start Writing on Github - Basic formatting syntax**
+    
+You do not need to read these sections:
+- Referencing issues and pull requests
+- Referencing external resources
+- Uploading Assests
+- Ignoring Markdown formatting
+- Disabling Markdown rendering
