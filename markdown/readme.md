@@ -17,13 +17,11 @@ For example, all of the pre-readings and lesson-notes you've been reading for th
 
 # Markdown
 
-Read the following webpage on GitHub. 
-
-[GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+Read the following webpage on GitHub: [GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 You should read the following section:
 
-**Start Writing on Github - Basic formatting syntax**
+__Start Writing on Github - Basic formatting syntax__
     
 You do not need to read these sections:
 - Referencing issues and pull requests
