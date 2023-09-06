@@ -254,7 +254,7 @@ When doing a revert, you must tell git which commit to revert. This is where `gi
 
 Steps to revert:
 
-- Make sure you don't have any uncommitted changes.
+- Make sure you don't have any uncommitted changes. `git status`
 - `git log` to see the commits and associated `sha`s
 - Copy the entire sha of the commit you want to revert
 - `git revert <sha>`
