@@ -51,7 +51,7 @@ First, you'll need to create a JavaScript file. To do so, you'll create a file w
 touch example.js
 ```
 
-Next in your terminal you will open the file in VSCode
+Next, in your terminal, you will open the file in VSCode
 
 ```bash
 code example.js
