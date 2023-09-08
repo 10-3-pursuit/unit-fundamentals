@@ -11,7 +11,6 @@ In this lesson, you'll learn how to use NodeJS to run JavaScript files on your m
 By the end of this lesson, you should be able to:
 
 - Describe what NodeJS is and why it's important.
-- Install NodeJS on your local machine through Homebrew.
 - Run JavaScript files with the `node` command.
 - Access command line arguments with the `node` command.
 - Run JavaScript in the NodeJS REPL.
@@ -50,6 +49,12 @@ First, you'll need to create a JavaScript file. To do so, you'll create a file w
 
 ```bash
 touch example.js
+```
+
+Next in your terminal you will open the file in VSCode
+
+```bash
+code example.js
 ```
 
 Inside that file, write some JavaScript code.
