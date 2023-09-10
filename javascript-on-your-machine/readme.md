@@ -159,7 +159,7 @@ If you were to run the command above, the output would be:
 On the command line, each argument is separated by a space. If you wanted to write a program that allowed you to add a phrase as an argument, you would need to wrap the phrase in double quotes.
 
 ```bash
-node ./example.js "Jamie B."
+node example.js "Jamie B."
 ```
 
 ### Different data types
@@ -167,7 +167,7 @@ node ./example.js "Jamie B."
 Every value passed as an argument will be interpreted as a string. If you choose to pass in other data types, you will need extra work to evaluate them. For example, take a look at the command below.
 
 ```bash
-node ./example.js 3 5 10
+node example.js 3 5 10
 ```
 
 This would result in the following values for `process.argv`.
