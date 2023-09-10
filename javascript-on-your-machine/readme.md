@@ -182,6 +182,8 @@ This would result in the following values for `process.argv`.
 ]
 ```
 
+Every argument that you pass to the node command will be evaluated as a string.
+
 ## The NodeJS REPL
 
 Using a REPL can be helpful for just testing out your code. Thankfully, with the `node` command, you can access a JavaScript REPL from the command line.
