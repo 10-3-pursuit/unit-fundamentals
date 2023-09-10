@@ -68,9 +68,9 @@ if (input) {
 }
 ```
 
-How can you change what you run on the command line so that a new fruit is added to the array?
+- How can you change what you run on the command line so that a new fruit is added to the array?
 
-How could you change the code above to accept many fruit arguments and add them to the fruit output?
+- How could you change the code above to accept many fruit arguments and add them to the fruit output?
 
 - After running the code and adding fruit, your file will not change. This means your changes are not permanent. Why is this?
 
