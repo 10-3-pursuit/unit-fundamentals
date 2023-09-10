@@ -137,8 +137,8 @@ function waveHello(name) {
   return result;
 }
 
-const name = process.argv[2];
-const result = waveHello(name);
+const nameInput = process.argv[2];
+const result = waveHello(nameInput);
 console.log(result);
 ```
 
