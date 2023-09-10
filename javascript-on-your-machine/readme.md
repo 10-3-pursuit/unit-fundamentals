@@ -22,7 +22,7 @@ By the end of this lesson, you should be able to:
 Recall that JavaScript is just text. To have that text take some action, we have to have a program to interpret the text. For example, take a look at the following JavaScript code.
 
 ```js
-console.log("🚀 3... 2... 1... Blast off!");
+console.log('🚀 3... 2... 1... Blast off!');
 ```
 
 While that code might mean something to you, it doesn't naturally mean something to a computer. By running the code above through a JavaScript interpreter, the code will do something, such as print a statement to the console.
@@ -60,7 +60,7 @@ code example.js
 Inside that file, write some JavaScript code.
 
 ```js
-console.log("🌌 Space. The final frontier.");
+console.log('🌌 Space. The final frontier.');
 ```
 
 Then, use the `node` command from the command line, passing the path to the file as the argument.
@@ -77,7 +77,7 @@ It's essential to remember that when running a file with the `node` command, the
 
 ```js
 function waveHello() {
-  return "👋 Hello!";
+  return '👋 Hello!';
 }
 
 waveHello();
@@ -130,7 +130,7 @@ For example, imagine your `example.js` file contains the following code, which a
 
 ```js
 function waveHello(name) {
-  let result = "👋 Hello!";
+  let result = '👋 Hello!';
   if (name) {
     return `👋 Hello, ${name}!`;
   }
@@ -145,7 +145,7 @@ console.log(result);
 Next, look at the following command you could run on the command line.
 
 ```bash
-node ./example.js Jamie
+node example.js Jamie
 ```
 
 If you were to run the command above, the output would be:
